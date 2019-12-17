@@ -1,4 +1,4 @@
-package com.org.wwls.websocketdemo;
+package com.org.wwls;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

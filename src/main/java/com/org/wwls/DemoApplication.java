@@ -1,13 +1,13 @@
-package com.org.wwls.websocketdemo;
+package com.org.wwls;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WebsocketDemoApplication {
+public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WebsocketDemoApplication.class, args);
+		SpringApplication.run(DemoApplication.class, args);
 	}
 
 }
