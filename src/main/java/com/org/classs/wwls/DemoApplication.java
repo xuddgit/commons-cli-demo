@@ -1,4 +1,4 @@
-package com.org.wwls;
+package com.org.classs.wwls;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

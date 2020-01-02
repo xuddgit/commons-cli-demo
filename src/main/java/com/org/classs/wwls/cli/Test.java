@@ -6,7 +6,7 @@
  **/
 
 
-package com.org.wwls.cli;
+package com.org.classs.wwls.cli;
 
 import org.apache.commons.cli.*;
 
